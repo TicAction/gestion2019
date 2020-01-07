@@ -1,2 +1,8 @@
+@extends('layouts.app')
 
-Je suis la page index
+@section('content')
+
+<div class="container">
+    <h1>Devoirs de la semaine</h1>
+</div>
+@stop

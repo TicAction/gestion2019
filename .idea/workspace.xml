@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7664a628-5858-4762-a21c-a35b87d7d7ad" name="Default Changelist" comment="" />
+    <list default="true" id="7664a628-5858-4762-a21c-a35b87d7d7ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/homeworks/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/homeworks/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/homeworks/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Homework.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Homework.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeworkController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeworkController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/homeworks/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homeworks/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +30,9 @@
         <option value="blade" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -107,6 +121,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UsxsxoZFO2HN31BgJO4OOq8EOt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -114,6 +131,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -149,6 +167,8 @@
       <workItem from="1576159321278" duration="97000" />
       <workItem from="1576160167867" duration="2712000" />
       <workItem from="1576165820280" duration="1154000" />
+      <workItem from="1576260259488" duration="1970000" />
+      <workItem from="1578404429565" duration="4277000" />
     </task>
     <servers />
   </component>
@@ -156,10 +176,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="182" key="#Deployment" timestamp="1576166986134">
+    <state x="560" y="182" key="#Deployment" timestamp="1578404809915">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
-    <state x="560" y="182" key="#Deployment/0.23.1920.987@0.23.1920.987" timestamp="1576166986134" />
+    <state x="560" y="182" key="#Deployment/0.23.1920.987@0.23.1920.987" timestamp="1578404809915" />
     <state x="304" y="290" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576166153526">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
@@ -168,23 +188,27 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576159419229" />
-    <state x="639" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1576260261806">
-      <screen x="0" y="23" width="1920" height="985" />
+    <state x="100" y="123" width="851" height="787" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578418594218">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="100" y="123" width="851" height="787" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.988@0.23.1920.988" timestamp="1578418594218" />
+    <state x="639" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1578404432799">
+      <screen x="0" y="23" width="1920" height="987" />
     </state>
     <state x="639" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576160175174" />
     <state x="639" y="362" key="com.intellij.ide.util.TipDialog/0.23.1920.985@0.23.1920.985" timestamp="1576260261806" />
-    <state x="639" y="363" key="com.intellij.ide.util.TipDialog/0.23.1920.987@0.23.1920.987" timestamp="1576165845074" />
+    <state x="639" y="363" key="com.intellij.ide.util.TipDialog/0.23.1920.987@0.23.1920.987" timestamp="1578404432799" />
     <state x="466" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576166353930">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
     <state x="466" y="213" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.987@0.23.1920.987" timestamp="1576166353930" />
-    <state x="867" y="254" key="ftp.server.browser" timestamp="1576165945930">
+    <state x="867" y="254" key="ftp.server.browser" timestamp="1578404808973">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
-    <state x="867" y="254" key="ftp.server.browser/0.23.1920.987@0.23.1920.987" timestamp="1576165945930" />
-    <state x="833" y="417" key="publish.login" timestamp="1576161448619">
+    <state x="867" y="254" key="ftp.server.browser/0.23.1920.987@0.23.1920.987" timestamp="1578404808973" />
+    <state x="833" y="417" key="publish.login" timestamp="1578404453240">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
-    <state x="833" y="417" key="publish.login/0.23.1920.987@0.23.1920.987" timestamp="1576161448619" />
+    <state x="833" y="417" key="publish.login/0.23.1920.987@0.23.1920.987" timestamp="1578404453240" />
   </component>
 </project>
