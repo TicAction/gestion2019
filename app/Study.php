@@ -5,7 +5,7 @@ namespace App;
 use App\Agenda;
 use Illuminate\Database\Eloquent\Model;
 
-class Group extends Model
+class Study extends Model
 {
     protected $guarded =[];
 

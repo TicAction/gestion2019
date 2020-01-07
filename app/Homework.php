@@ -1,17 +1,16 @@
 <?php
 
-namespace App\Http;
+namespace App;
 
-use App\Group;
+use App\Agenda;
 use Illuminate\Database\Eloquent\Model;
 
 class Homework extends Model
 {
     protected $guarded =[];
 
-    public function group()
+    public function agendas()
     {
-        $this->belongsTo(Group::class);
+        $this->hasMany(Agenda::class);
     }
-
 }

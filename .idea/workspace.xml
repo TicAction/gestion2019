@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7664a628-5858-4762-a21c-a35b87d7d7ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/homeworks/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/homeworks/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/homeworks/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Group.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Homework.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Homework.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeworkController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeworkController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/homeworks/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/homeworks/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_12_142244_create_homeworks_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_12_142244_create_homeworks_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +162,7 @@
       <workItem from="1576160167867" duration="2712000" />
       <workItem from="1576165820280" duration="1154000" />
       <workItem from="1576260259488" duration="1970000" />
-      <workItem from="1578404429565" duration="4277000" />
+      <workItem from="1578404429565" duration="8078000" />
     </task>
     <servers />
   </component>
@@ -184,6 +178,14 @@
       <screen x="0" y="23" width="1920" height="987" />
     </state>
     <state x="304" y="290" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1920.987@0.23.1920.987" timestamp="1576166153526" />
+    <state x="456" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1578425414510">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="456" y="242" key="#com.intellij.ide.util.MemberChooser/0.23.1920.990@0.23.1920.990" timestamp="1578425414510" />
+    <state x="405" y="281" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1578425473038">
+      <screen x="0" y="23" width="1920" height="990" />
+    </state>
+    <state x="405" y="281" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1920.990@0.23.1920.990" timestamp="1578425473038" />
     <state x="469" y="179" key="SettingsEditor" timestamp="1576159419229">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
