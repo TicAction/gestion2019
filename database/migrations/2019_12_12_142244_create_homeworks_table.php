@@ -15,10 +15,10 @@ class CreateHomeworksTable extends Migration
     {
         Schema::create('homeworks', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('question')->nullable();
-            $table->string('math')->nullable();
-            $table->string('oral')->nullable();
-            $table->mediumText('other')->nullable();
+            $table->string('homework_question')->nullable();
+            $table->string('homework_math')->nullable();
+            $table->string('homework_oral')->nullable();
+            $table->mediumText('homework_other')->nullable();
 
             $table->timestamps();
         });

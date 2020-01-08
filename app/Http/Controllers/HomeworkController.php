@@ -35,7 +35,11 @@ class HomeworkController extends Controller
      */
     public function store(Request $request)
     {
-        dd($request->all());
+        Homework::create([
+            $request->all(),
+        ]);
+        return "fait";
+
     }
 
     /**
