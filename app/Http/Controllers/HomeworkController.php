@@ -24,7 +24,7 @@ class HomeworkController extends Controller
      */
     public function create()
     {
-        return view ("homework/create");
+        return view ("homeworks/create");
     }
 
     /**
@@ -35,7 +35,7 @@ class HomeworkController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        dd($request->all());
     }
 
     /**

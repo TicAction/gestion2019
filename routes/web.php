@@ -18,5 +18,9 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+//homework
+Route::get('/devoirs/creation','HomeworkController@create')->name('homework_create');
+Route::post('/devoirs','HomeworkController@store')->name('homework_store');
 
-Route::get('/devoirs','HomeworkController@index')->name('homework_index');
+//agenda
+Route::get('/agenda','AgendaController@index')->name('agenda_index');
